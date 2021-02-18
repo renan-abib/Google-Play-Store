@@ -1,4 +1,4 @@
-# Google_Play_Store
+# Google Play Store
 
 Atualmente, o Android é o sistema operacional móvel mais dominante no
 mundo, com cerca de 85% do total de dispositivos móveis (como smartphones e tablets)
